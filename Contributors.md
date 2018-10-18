@@ -110,6 +110,7 @@
 - [Vu Minh Tung](https://github.com/tungvm1711/)
 - [Matt Degraffenreid] (https://github.com/matt-degraffenreid)
 - [Jon Jee](https://github.com/jonjee/)
+- [Sahil Saini](https://github.com/vagita24)
 - [Brittany Morris](https://github.com/brittmmendez/)
 - [Juliette Tworsey](https://github.com/firebuggirl/)
 - [Anubhab Sen](https://github.com/anubhabsen)
